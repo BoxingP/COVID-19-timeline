@@ -47,6 +47,7 @@ Date | Events | Operations | Research | News
 3-3 | 梅仲明因感染新冠肺炎，在金银潭医院抢救无效殉职，享年57岁[2] | | |
 3-8 | | <ul><li>武汉市中心医院书记和院长第一次到隔离病房看望感染的医护人员[4]</li><li>三个月不去病房的武汉市中心医院书记在接到卫健委命令24小时在医院之后，安了床、装了淋浴，还不忘让工作人员装上浴霸，因为她“洗澡怕冷”[5]</li></ul> | |
 3-9 | <ul><li>朱和平因感染新冠肺炎，在武汉协和医院西区抢救无效去世，享年66岁[2]</li><li>武汉市中心医院全院累计超过230名医务人员确诊感染新冠肺炎[3]</li></ul> | | |
+3-12 | | | 湖北省政府网站在防控科普栏目中发布一篇来自华中科技大学同济医院的文章。文章称，华中科技大学同济医院生殖医学中心李豫峰教授团队提醒：感染新冠肺炎的适龄男性，在康复后应进行生育力检查。[6] |
 
 ## References
 
@@ -57,9 +58,11 @@ No. | Date | Title | Archive
 3 | 2020-03-12 | [时间线｜武汉市中心医院经历了什么？ - 财新网][3] | [link](http://archive.is/N94GN)
 4 | 2020-03-11 | [四人殉职，四人濒危——武汉中心医院“至暗时刻” - 南方周末][4] | [link](http://archive.is/0EtWA)
 5 | 2020-03-11 | [两个隐去的细节 - 南方周末记者张玥][5] | [link](http://archive.is/MSy5N)
+6 | 2020-03-12 | [湖北省政府网站刊文：感染新冠肺炎的适龄男性应进行生育力检查 - 界面新闻][6] | [link](http://archive.is/TLKLL)
 
 [1]: http://datanews.caixin.com/2020-03-10/101526556.html
 [2]: http://china.caixin.com/2020-03-10/101526309.html
 [3]: http://datanews.caixin.com/2020-03-12/101527550.html
 [4]: https://mp.weixin.qq.com/s/7KNoEt2n0jK-PJmntlXwdg
 [5]: http://wx2.sinaimg.cn/large/007lbdylgy1gcqxdu4f4uj30tc0mjacu.jpg
+[6]: https://mp.weixin.qq.com/s/aA9SdmmxkuI-VJNaUz208Q
